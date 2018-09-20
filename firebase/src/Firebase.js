@@ -4,8 +4,8 @@ import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth'
 
 
 firebase.initializeApp({
-    apiKey: "AIzaSyAaXziK7mx1COo0V7Pq6qaGO8CEz_QhZzc",
-    authDomain: "caremedico-auth.firebaseapp.com"
+    apiKey: "",
+    authDomain: ""
   })
 
 class Firebase extends Component {
